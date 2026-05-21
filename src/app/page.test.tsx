@@ -5,8 +5,6 @@ import Home from "@/app/page";
 describe("Home page", () => {
   it("サイトタイトルを描画する", () => {
     render(<Home />);
-    expect(
-      screen.getByRole("heading", { name: "Falcula" }),
-    ).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: "Ganana" })).toBeInTheDocument();
   });
 });

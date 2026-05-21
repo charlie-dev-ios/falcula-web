@@ -9,8 +9,8 @@ const notoSansJP = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: "Falcula",
-  description: "Falcula Web",
+  title: "Ganana",
+  description: "Ganana Web",
 };
 
 export default function RootLayout({

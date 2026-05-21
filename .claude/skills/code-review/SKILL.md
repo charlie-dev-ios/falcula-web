@@ -1,6 +1,6 @@
 ---
 name: code-review
-description: 現在のブランチの未マージ変更（origin/main..HEAD の diff）を、独立コンテキストのレビュアー視点でレビューする。「レビューして」「コードレビュー」「diff 見て」「実装をレビューして」「PR 出す前に確認」等の指示があれば必ず発動する。Falcula Web プロジェクトの規約（Constitution / development.md）に照らした観点で、Critical / Recommended / Optional に分類した指摘を返す。linear-implement スキルからも invoke される。
+description: 現在のブランチの未マージ変更（origin/main..HEAD の diff）を、独立コンテキストのレビュアー視点でレビューする。「レビューして」「コードレビュー」「diff 見て」「実装をレビューして」「PR 出す前に確認」等の指示があれば必ず発動する。プロジェクトの規約（Constitution / development.md）に照らした観点で、Critical / Recommended / Optional に分類した指摘を返す。linear-implement スキルからも invoke される。
 ---
 
 # コードレビュー

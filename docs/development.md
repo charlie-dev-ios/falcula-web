@@ -1,6 +1,6 @@
-# Falcula Web 開発ガイド
+# Ganana Web 開発ガイド
 
-> Falcula Web フロントエンドの開発詳細ガイド
+> Ganana Web フロントエンドの開発詳細ガイド
 
 このドキュメントには、技術スタック、コーディング規約、Git規約、テスト戦略など、開発に必要な詳細情報を集約しています。
 
@@ -51,7 +51,7 @@
 ### ディレクトリ構造
 
 ```
-falcula-web/
+ganana-web/
 ├── src/
 │   ├── app/                 # App Router
 │   │   └── api/             # Route Handlers
