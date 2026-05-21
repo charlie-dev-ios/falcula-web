@@ -1,8 +1,8 @@
-# Falcula Web
+# Ganana Web
 
 > （プロダクト概要は後で記載）
 
-Falcula の Web フロントエンドリポジトリです。
+Ganana の Web フロントエンドリポジトリです。
 
 ## ドキュメント
 
