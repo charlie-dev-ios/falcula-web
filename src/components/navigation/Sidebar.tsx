@@ -42,7 +42,7 @@ export function Sidebar() {
   return (
     <nav
       aria-label="メインナビゲーション"
-      className="flex h-dvh w-60 shrink-0 flex-col gap-1 border-r border-foreground/10 p-3"
+      className="flex h-full w-60 shrink-0 flex-col gap-1 border-r border-foreground/10 p-3"
     >
       <div className="px-3 py-2 text-lg font-bold">Ganana</div>
       {primaryItems.map((item) => (
